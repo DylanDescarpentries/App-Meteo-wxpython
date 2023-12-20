@@ -1,2 +1,2 @@
 # App-Meteo-wxpython
-application meteo avec une voix artificielle
+exercice application meteo avec une voix artificielle
